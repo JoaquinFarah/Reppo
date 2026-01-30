@@ -49,8 +49,7 @@ export const sampleProducts: Product[] = [
     category: "Cuidado del Cabello",
     unit: "750ml",
     specifications: ["Cabello dañado", "Reparación profunda"],
-  },
-  
+  },  
   {
     id: "pantene-6",
     name: "Shampoo Restauracion",
@@ -99,7 +98,6 @@ export const sampleProducts: Product[] = [
     unit: "750ml",
     specifications: ["Cabello dañado", "Reparación profunda"],
   },
-
   {
     id: "pantene-12",
     name: "Shampoo Brillo",
@@ -148,7 +146,6 @@ export const sampleProducts: Product[] = [
     unit: "750ml",
     specifications: ["Cabello opaco", "Brillo intenso"],
   },
-
   {
     id: "pantene-18",
     name: "Shampoo Liso Extremo",
@@ -295,7 +292,6 @@ export const sampleProducts: Product[] = [
     unit: "750ml",
     specifications: ["Fortalecimiento", "Menos quiebre"],
   },
-
   {
     id: "pantene-36",
     name: "Shampoo Detox",
@@ -393,7 +389,6 @@ export const sampleProducts: Product[] = [
     unit: "750ml",
     specifications: ["Vitalidad", "Cabello sin vida"],
   },
-
   {
     id: "pantene-48",
     name: "Shampoo Keratina",
@@ -540,7 +535,6 @@ export const sampleProducts: Product[] = [
     unit: "750ml",
     specifications: ["Más volumen", "Cabello lacio"],
   },
-
   {
     id: "pantene-66",
     name: "Shampoo Bamboo",
@@ -589,7 +583,6 @@ export const sampleProducts: Product[] = [
     unit: "750ml",
     specifications: ["Fortaleza", "Cabello débil"],
   },
-
 
 
 
@@ -1522,6 +1515,104 @@ export const sampleProducts: Product[] = [
   unit: "1.5 litros",
   specifications: ["Quitamanchas", "Para Colores"],
 },
+{
+  id: "ayudin-42",
+  name: "Quitamanchas Ayudín Blanco",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "450 gr",
+  specifications: ["Quitamanchas", "Para Blanco"],
+},
+{
+  id: "ayudin-43",
+  name: "Quitamanchas Ayudín Blanco",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "700 ml",
+  specifications: ["Quitamanchas", "Para Blanco"],
+},
+{
+  id: "ayudin-44",
+  name: "Quitamanchas Ayudín Blanco",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "1 litro",
+  specifications: ["Quitamanchas", "Para Blanco"],
+},
+{
+  id: "ayudin-45",
+  name: "Quitamanchas Ayudín Blanco",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "2 litros",
+  specifications: ["Quitamanchas", "Para Blanco"],
+},
+{
+  id: "ayudin-46",
+  name: "Toallitas desinfectantes",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "35 unidades",
+  specifications: ["Desinfectantes", "Para superficies"],
+},
+{
+  id: "ayudin-47",
+  name: "Toallitas desinfectantes",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "65 unidades",
+  specifications: ["Desinfectantes", "Para superficies"],
+},
+{
+  id: "ayudin-48",
+  name: "Canastita de baño",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "1 unidad",
+  specifications: ["Desinfectantes", "Para superficies"],
+},
+{
+  id: "ayudin-49",
+  name: "Esponja cuadriculada",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "1 unidad",
+  specifications: ["Desinfectantes", "Para superficies"],
+},
+{
+  id: "ayudin-50",
+  name: "Aerosol Desinfectante Frescura Matutina",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "360 cm³",
+  specifications: ["Desinfectante", "Frescura Matutina"],
+},
+{
+  id: "ayudin-51",
+  name: "Aerosol Desinfectante Bebé",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "360 cm³",
+  specifications: ["Desinfectante", "Aroma Bebé"],
+},
+{
+  id: "ayudin-52",
+  name: "Aerosol Desinfectante Original",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "360 cm³",
+  specifications: ["Desinfectante", "Original"],
+},
+{
+  id: "ayudin-53",
+  name: "Aerosol Desinfectante Original",
+  brand: "Ayudín",
+  category: "Limpieza",
+  unit: "500 cm³",
+  specifications: ["Desinfectante", "Original"],
+},
+
+
 
 
 
